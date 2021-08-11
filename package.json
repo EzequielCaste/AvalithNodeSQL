@@ -1,0 +1,30 @@
+{
+  "name": "avalithnodesql",
+  "version": "1.0.0",
+  "description": "Ejercicio para Skill Factory de Avalith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzequielCaste/AvalithNodeSQL.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express",
+    "api"
+  ],
+  "author": "Ezequiel Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzequielCaste/AvalithNodeSQL/issues"
+  },
+  "homepage": "https://github.com/EzequielCaste/AvalithNodeSQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2"
+  }
+}
