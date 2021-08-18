@@ -1,0 +1,24 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Carlos Mencina",
+      "country": "Chile"
+    },
+    {
+      "id": 2,
+      "name": "Juan Dablon",
+      "country": "Peru"
+    },
+    {
+      "id": 3,
+      "name": "Guillermo Sosa",
+      "country": "Argentina"
+    },
+    {
+      "id": 4,
+      "name": "Ignacio Perez",
+      "country": "Uruguay"
+    }
+  ]
+}

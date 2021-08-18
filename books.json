@@ -3,27 +3,27 @@
     {
       "id": 1,
       "name": "Book Title 1",
-      "author": "Author for Book 1"
+      "author": 1
     },
     {
       "id": 2,
       "name": "Book Title 2",
-      "author": "Author for Book 2"
+      "author": 2
     },
     {
       "id": 3,
       "name": "Book Title 3",
-      "author": "Author for Book 3"
+      "author": 3
     },
     {
       "id": 4,
       "name": "Book Title 4",
-      "author": "Author for Book 4"
+      "author": 4
     },
     {
       "id": 5,
       "name": "Book Title 5",
-      "author": "Author for Book 5"
+      "author": 4
     }
   ]
 }
